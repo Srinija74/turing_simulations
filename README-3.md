@@ -5,10 +5,6 @@
 
 ---
 
-![Animation of Turing pattern formation](simulation_outputs/turing_spots.mp4)
-
----
-
 > **Notation note:** The standard Gray-Scott literature uses `u` and `v` for the two chemical species. In this implementation, the variables are named `a` (activator) and `h` (inhibitor) to make the biological interpretation explicit in the code. The equations and dynamics are identical; only the variable names differ.
 
 ---
