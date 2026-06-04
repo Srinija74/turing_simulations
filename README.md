@@ -13,8 +13,6 @@
 
 Turing's 1952 paper *"The Chemical Basis of Morphogenesis"* proposed that spatially periodic patterns in biological systems — coat markings, digit spacing, leaf venation — can arise not from explicit genetic specification but from a mathematical instability in a system of reacting, diffusing chemicals. This repository implements a numerical simulation of that mechanism using the **Gray-Scott model**, an autocatalytic reaction-diffusion system that exhibits many of the pattern-forming phenomena associated with reaction-diffusion theory.
 
-The simulation was developed during a semester break after first year, as a continuation of earlier work on single-neuron dynamics (Hodgkin-Huxley and Izhikevich models) — extending from temporal dynamics in a point neuron to spatial self-organisation across a two-dimensional chemical field.
-
 ---
 
 ## Background
