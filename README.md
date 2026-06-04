@@ -245,5 +245,5 @@ This remains an open question in biology. For most organisms, the molecular iden
 
 ## Contact
 
-**LinkedIn:** [Srinija Palacharla](https://www.linkedin.com/in/srinija-palacharla)  
+**LinkedIn:** [Srinija Palacharla](https://www.linkedin.com/in/psrinija/)  
 **Institute:** Indian Institute of Technology Guwahati, Electronics and Communication Engineering
